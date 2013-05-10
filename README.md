@@ -42,26 +42,25 @@ A Simple note-taking application.
 
 **Main Success Scenario**
 
-1. کاربر بر روی دکمهٔ `ایجاد یادداشت جدید` کلیک می‌کند.
-2. صفحهٔ جدیدی برای درج یادداشت باز می‌شود.
-3. کاربر می‌تواند عنوان یا متن یادداشت را تغییر دهد (اختیاری)
-4. کاربر وقتی صفحه را می‌بندد، یادداشت‌اش ذخیره می‌شود.
+1. User request system to create new note.
+2. System provide user to enter new note (title, body, tags are optional).
+3. User can write new note and set title, body and tags.
+4. System automaticly save the note as user change it.
 
 **Extensions**
 
 **Priority**
-* خیلی مهم
+* high
 
 
 
-### UC-N: Edit previous notes
+### UC-2: Edit previous notes
 
 **Description**
 کاربر باید بتواند یادداشت‌های قبلی‌اش را در یک فهرست که بر اساس نام یا تاریخ مرتب شده‌اند مشاهده کند و به دلخواه بتواند یکی از یادداشت‌ها را انتخاب کند و محتوای آن را تغییر دهد.
 
 **Preconditions**
-* کاربر در صفحهٔ اصلی نرم‌افزار باشد.
-* کاربر قبلاً یادداشتی ذخیره کرده باشد.
+* User have written 
 
 **Postconditions**
 * کاربر در صفحهٔ اصلی نرم‌افزار است.
