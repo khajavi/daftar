@@ -1,4 +1,4 @@
-daftar
+Daftar
 ======
 
 A Simple note-taking application.
