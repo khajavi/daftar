@@ -1,4 +1,4 @@
 daftar
 ======
 
-Simple note-taking application.
+A Simple note-taking application.
