@@ -11,14 +11,15 @@ A Simple note-taking application.
 ![UseCaseDiagram](usecase.png)
 
 ### UC-1: Create new note
-    |   
---- | --- 
-Title | Create new note 
-Description |  
-Primary Actor |     
-Preconditions |        
-Postconditions |    
-Main Success Scenario |           
-Extensions |     
-Frequency of Use |     
-Priority  | High 
+*Description*
+*Primary Actor*
+*Preconditions*
+User is toplevel application window.
+*Postconditions*
+User have created new note.
+*Main Success Scenario*
+1. کاربر بر روی create new note کلیک می‌کند.
+2. کاربر می‌تواند عنوان یا متن یادداشت را تغییر دهد (اختیاری)
+*Extensions*
+*Priority*
+خیلی مهم
