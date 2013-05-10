@@ -12,16 +12,7 @@ A Simple note-taking application.
 
 ### UC-1: Create new note
 
-| Tables        | Are           | Cool  |
-|:-----:|:-----|
-| ID | UC-1 |
-| Title | Create new note |
-| Description |  |
-| Primary Actor |  |
-| Preconditions |  |
-| Postconditions |  |
-| Main Success Scenario |
-1. Student selects “Register New Courses” from the menu.
-2. System displays list of courses available for registering.
-3. Student selects one or more courses he wants to register for.
-4. Student clicks “Submit” button. |
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
