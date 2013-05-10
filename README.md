@@ -12,11 +12,15 @@ A Simple note-taking application.
 
 ### UC-1: Create new note
 
- Plugin                 Description
- --------------------   ----------------------- 
- base_name.rb           Liquid filter for a page to return its base filename. 
- github_feed.rb         Display Github user activity (based on their atom feed)
- git_modified.rb        Obtain page's modification date from it's last commit to git
-
-
-
+|:-----:|:-----|
+| ID | UC-1 |
+| Title | Create new note |
+| Description |  |
+| Primary Actor |  |
+| Preconditions |  |
+| Postconditions |  |
+| Main Success Scenario |
+1. Student selects “Register New Courses” from the menu.
+2. System displays list of courses available for registering.
+3. Student selects one or more courses he wants to register for.
+4. Student clicks “Submit” button. |
