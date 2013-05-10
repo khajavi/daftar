@@ -9,3 +9,9 @@ A Simple note-taking application.
 
 ## Use Case
 ![UseCaseDiagram](usecase.png)
+
+### UC-1: Create new note
+
+ID           UC-1
+Title           Create new note
+Description           Des
