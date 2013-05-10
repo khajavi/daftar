@@ -14,7 +14,6 @@ A Simple note-taking application.
 
  Plugin                 Description
  --------------------   ----------------------- 
- ID                     UC-1
- Description            Description 
-
-
+ base_name.rb           Liquid filter for a page to return its base filename. 
+ github_feed.rb         Display Github user activity (based on their atom feed)
+ git_modified.rb        Obtain page's modification date from it's last commit to git
