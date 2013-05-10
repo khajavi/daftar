@@ -12,8 +12,8 @@ A Simple note-taking application.
 
 ### UC-1: Create new note
 
- Test                   Test 2
- --------------------   ----------------------- 
- ID           UC-1
- Title           Create new note
- Description           Des
+      Test                          Test 2
+ --------------------     ----------------------- 
+ ID                       UC-1
+ Title                    Create new note
+ Description              Des
