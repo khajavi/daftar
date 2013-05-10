@@ -12,7 +12,6 @@ A Simple note-taking application.
 
 ### UC-1: Create new note
 
-Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
