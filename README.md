@@ -12,7 +12,14 @@ A Simple note-taking application.
 
 ### UC-1: Create new note
 
-    |     |    
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+ID | UC-1
+--- | --- 
+Title | Create new note 
+Description |  
+Primary Actor |     
+Preconditions |        
+Postconditions |    
+Main Success Scenario |           
+Extensions |     
+Frequency of Use |     
+Priority  | High 
