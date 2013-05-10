@@ -23,6 +23,7 @@ A Simple note-taking application.
 * User have created new note.
 
 **Main Success Scenario**
+
 1. کاربر بر روی create new note کلیک می‌کند.
 2. کاربر می‌تواند عنوان یا متن یادداشت را تغییر دهد (اختیاری)
 
@@ -32,3 +33,29 @@ A Simple note-taking application.
 
 خیلی مهم
 
+
+
+### UC-1: Create new note
+
+**Description**
+
+**Primary Actor**
+
+**Preconditions**
+* User is toplevel application window.
+
+**Postconditions**
+* User have created new note.
+
+**Main Success Scenario**
+
+1. کاربر بر روی دکمهٔ `ایجاد یادداشت جدید` کلیک می‌کند.
+2. صفحهٔ جدیدی برای درج یادداشت باز می‌شود.
+3. کاربر می‌تواند عنوان یا متن یادداشت را تغییر دهد (اختیاری)
+4. کاربر وقتی صفحه را می‌بندد، یادداشت‌اش ذخیره می‌شود.
+
+**Extensions**
+
+**Priority**
+
+خیلی مهم
