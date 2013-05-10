@@ -12,6 +12,7 @@ A Simple note-taking application.
 
 ### UC-1: Create new note
 
+| Tables        | Are           | Cool  |
 |:-----:|:-----|
 | ID | UC-1 |
 | Title | Create new note |
