@@ -11,7 +11,7 @@ A Simple note-taking application.
 ![UseCaseDiagram](usecase.png)
 
 ### UC-1: Create new note
-
+    |   
 --- | --- 
 Title | Create new note 
 Description |  
