@@ -10,6 +10,37 @@ A Simple note-taking application.
 ## Use Case
 ![UseCaseDiagram](usecase.png)
 
+### Use Case Template
+```
+USE CASE N: FULLY DRESSED USE CASE TEMPLATE <NAME>
+<the name should be the goal as a short active verb phrase>
+Context of use: <a longer statement of the goal, if needed, its normal occurrence con-
+ditions>
+Scope: <design scope, what system is being considered black-box under design>
+Level: <one of: Summary, User-goal, Subfunction>
+Primary Actor: <a role name for the primary actor, or description>
+Stakeholders & Interests: <list of stakeholders and key interests in the use case>
+Precondition: <what we expect is already the state of the world>
+Minimal Guarantees: <how the interests are protected under all exits>
+Success Guarantees: <the state of the world if goal succeeds>
+Trigger: <what starts the use case, may be time event>
+Main Success Scenario:
+<put here the steps of the scenario from trigger to goal delivery, and any cleanup
+after>
+<step #> <action description>
+Extensions
+<put here there extensions, one at a time, each referring to the step of the main sce-
+nario>
+<step altered> <condition>: <action or sub-use case>
+<step altered> <condition>: <action or sub-use case>
+Technology and Data Variations List
+<put here the variations that will cause eventual bifurcation in the scenario>
+<step or variation # > <list of variations>
+<step or variation # > <list of variations>
+Related Information
+<whatever your project needs for additional information>
+```
+
 ### UC-N: Name
 
 **Description**
