@@ -32,24 +32,26 @@ A Simple note-taking application.
 
 ### UC-1: Create new note
 
-**Description**
+**Scope**
+
+**Level**: User-Goal
 
 **Primary Actor**
 
-**Preconditions**
-* User is toplevel application window.
-
-**Postconditions**
-* User have created new note.
+**Success Guarantees**: The new is created.
 
 **Main Success Scenario**
 
 1. User request system to create new note.
-2. System provide user to enter new note (title, body, tags are optional).
+2. System provide user to an area to enter new note (title, body, tags are optional).
 3. User can write new note and set title, body and tags.
 4. System automaticly save the note as user change it.
 
 **Extensions**
+
+* 4a. Disk is full:
+	* 4a1. System prompt disk full to user
+	* 4a2. System freeze inputs until disk will be free.
 
 **Priority**
 * high
